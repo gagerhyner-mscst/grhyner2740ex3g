@@ -1,0 +1,15 @@
+101
+Mark Swanson
+10.0
+0.0
+102
+Patti Weigand
+50.0
+10.0
+103
+Lyle Stelter
+30.0
+10.0
+Torry Jeranek
+40.0
+20.0
